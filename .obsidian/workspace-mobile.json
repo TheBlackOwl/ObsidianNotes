@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Dev/ASTRO/GetCollections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "GetCollections"
             }
           }
         ]
@@ -164,9 +164,9 @@
   },
   "active": "fb89abfcaeaa188b",
   "lastOpenFiles": [
-    "TO-DO.md",
     "README.md",
-    "GetCollections.md",
+    "TO-DO.md",
+    "Dev/ASTRO/GetCollections.md",
     "Dev/ASTRO",
     "Dev",
     "/TO-DO.md",
